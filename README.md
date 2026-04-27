@@ -1,6 +1,11 @@
 # Calculadora Rotaciones
+
 Pequeña página web para calcular rotaciones de matrices.
+
+---
+
 ## Instrucciones
+
 - Abre la página de este proyecto
 - Cambia el grado si lo necesitas
 - Rellena las matrices
